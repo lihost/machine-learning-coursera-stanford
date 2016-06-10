@@ -1,2 +1,4 @@
 # machine-learning-coursera-stanford
-My experitments
+My experitments and code solutions
+
+ - Octave/Matlab
